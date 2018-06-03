@@ -45,7 +45,9 @@
 ## Uploading
 
  - `git add <file>` or `git add *`
-> Use the second one if you need to upload all changed files
+ > Use the second one if you need to upload all changed files
+ - 'git add -u'
+ > Tells git to acknowledge delteded files
  - `git commit -m "comment"`
  - `git push`  **#Current Branch**
  - `git push origin <branch>` **#Other Branch**
