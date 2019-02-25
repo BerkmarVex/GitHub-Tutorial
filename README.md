@@ -20,7 +20,7 @@
  - `sudo apt-get install git` **# for Debian/Ubuntu users**
  - `brew install git` **# for Mac OS X users with Homebrew installed**
  - https://git-scm.com/ **# Windows**
- 
+
 
 
 ----------
@@ -51,7 +51,7 @@
  - `git commit -m "comment"`
  - `git push`  **#Current Branch**
  - `git push origin <branch>` **#Other Branch**
- 
+
 
 
 ----------
@@ -60,7 +60,7 @@
 
  - `git clone <repo> ` **#First Time**
  - `git pull ` **When In The Local Repo Folder & After The First Time**
- - 
+ -
 ----------
 ## How To Find Out What Branch Your Editing:
  - `git status`
@@ -73,7 +73,7 @@
  - `git checkout -b <new-branch> <existing-branch>` **# -b Tells Git You Want To Make A New Branch**
  - `git checkout <branch> `  **#Switch Between Branches**
  - `git stash` **#Use If Your Branch Still Needs Some Work And You Need To Switch Branches**
- 
+
 
 
 ----------
@@ -104,10 +104,10 @@
  - https://help.github.com/articles/adding-a-file-to-a-repository-using-the-command-line/
  - https://dont-be-afraid-to-commit.readthedocs.io/en/latest/git/commandlinegit.html      
  - https://confluence.atlassian.com/bitbucketserver/creating-ssh-keys-776639788.html      
- - https://github.com/settings/ssh 
+ - https://github.com/settings/ssh
  - http://kbroman.org/github_tutorial/pages/init.html				       
  - https://stackoverflow.com/questions/3055492/git-best-practices-for-quickly-switching-between-branches
  - https://stackoverflow.com/questions/14168677/merge-development-branch-with-master
  - https://gnupg.org/download/index.html
- - https://ssd.eff.org/en/module/how-use-pgp-windows	
+ - https://ssd.eff.org/en/module/how-use-pgp-windows
  - https://help.github.com/articles/signing-commits-using-gpg/
